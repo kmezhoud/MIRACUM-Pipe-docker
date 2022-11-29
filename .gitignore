@@ -1,28 +1,25 @@
 # intellij IDE
 .idea
-
 # tools
 tools/annovar/*
 !tools/annovar/.gitkeep
-
 tools/gatk/*
 !tools/gatk/.gitkeep
-
 # databases
 databases/*
 !databases/.gitkeep
-
 # assets/input
 assets/input/*
 !assets/input/.gitkeep
-
 # assets/references
 assets/references/*
 !assets/references/.gitkeep
 !assets/references/cnvkit/.gitkeep
 !assets/references/mappability/.gitkeep
 !assets/references/sequencing/.gitkeep
-
 # assets/output
 assets/output/*
 !assets/output/.gitkeep
+.Rproj.user
+.Rhistory
+.RData
